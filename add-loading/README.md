@@ -23,7 +23,7 @@ $(".J_loading-1").loading();
 ```html
 $(".J_loading-2").loading("loading-img");
 ```
-### 参数为对象，设置自定义imgUrl，calssname，以及插入位
+### 参数为对象，设置自定义imgUrl，classname，以及插入位
 - 插入位置参数有三个可选
 - 默认为insertAfter，插入到当前元素后面
 - appendTo：插入到设置元素的末尾
