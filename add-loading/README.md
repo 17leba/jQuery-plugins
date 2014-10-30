@@ -1,6 +1,6 @@
 jQuery-plugins-loading
 ==============
-### 示例html
+### 示例HTML
 ```html
 <a href="javascript:void(0)" class="J_loading-1">loading btn 1</a>
 <a href="javascript:void(0)" class="J_loading-2">loading btn 2</a>
@@ -75,6 +75,6 @@ $(".J_loading-7").on("click",function(){
 ```
 - 当然也可以自己手动删除添加的classname，如
 ```html
-// $(".J_loading-7").removeClass("loading-img")
+$(".J_loading-7").removeClass("loading-img")
 ```
 
