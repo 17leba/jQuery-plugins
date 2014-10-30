@@ -14,9 +14,9 @@ $(function(){
 	})
 })
 </script>
+```
 ### Live Demo
 [View Demo](http://17leba.github.io/demo/jQuery-mask/)
-```
 ### 参数默认为空，直接加入透明度为50的黑色背景
 ```html
 $.mask()
