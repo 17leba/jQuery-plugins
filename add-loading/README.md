@@ -27,8 +27,9 @@ $(".J_loading-2").loading("loading-img");
 - 插入位置参数有三个可选
 - 默认为insertAfter，插入到当前元素后面
 - appendTo：插入到设置元素的末尾
-- insertBefore：插入到设置元素前面<br>
+- insertBefore：插入到设置元素前面
 - 三个参数不可同时设置，若同时设置，则优先级高低为:appendTo > insertBefore > insertAfter
+
 ### 默认为accord，插入到当前元素后面
 ```html
 $(".J_loading-3").loading({
